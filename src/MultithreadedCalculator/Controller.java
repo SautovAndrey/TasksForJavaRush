@@ -5,8 +5,8 @@ import java.util.Scanner;
 
 public class Controller {
     // Добавим комментарий к первой строке кода, инициализирующей переменные представления и диспетчера задач.
-private View view;
-private TaskManager taskManager;
+private final View view;
+private final TaskManager taskManager;
 
 // Добавим комментарий для конструктора класса Controller, принимающего два параметра.
 public Controller(View view, TaskManager taskManager) {

@@ -8,10 +8,10 @@ import java.util.List;
 
 public class TaskManager {
     // Создаём список задач
-private List<Task> tasks;
+private final List<Task> tasks;
 
 public TaskManager(List<Task> tasks) { // Создаём конструктор для задач
-    this.tasks = tasks;
+    this.tasks = tasks;//not sure it makes sense to pass arrayList of tasks, it can be created here
 }
 public void addTask(Task task) {    // Добавляем задачу в список задач
     tasks.add(task);

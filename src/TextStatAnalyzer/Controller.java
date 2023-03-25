@@ -29,7 +29,7 @@ public class Controller {
                         fileStats.put("символы", analyzer.getNumberOfSymbols());
                         fileStats.put("пробелы", analyzer.getNumberOfSpaces());
                         fileStats.put("предложения", analyzer.getNumberOfSentences());
-                        fileStats.put("слова", analyzer.getNumberOfWords());
+                        fileStats.put("слова", analyzer.getNumberOfWords());//consider using Map.of(elements...) instead of put statements
                         synchronized (statistics) {
                             statistics.put(filePath, fileStats);
                         }
