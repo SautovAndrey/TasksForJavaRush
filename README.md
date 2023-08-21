@@ -1,9 +1,20 @@
 
 ---
+# TasksForJavaRush
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://github.com/SautovAndrey/TasksForJavaRush/blob/43e00258b5e6a8bd7a90766560a5c3dd61c4b3d8/LICENSE)
 
 ## MultithreadedCalculator 🧮
 
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+![MultithreadedCalculator Screenshot](https://github.com/SautovAndrey/TasksForJavaRush/blob/43e00258b5e6a8bd7a90766560a5c3dd61c4b3d8/MC.jpg)
+
+**MultithreadedCalculator** — это приложение, разработанное на Java, которое использует многопоточность для выполнения математических операций. Пользователи могут выполнять базовые арифметические операции, такие как сложение, вычитание, умножение и деление, с использованием нескольких потоков для ускорения вычислений.
+
+---
+
+Вы можете скопировать и вставить этот текст в файл README вашего репозитория. Если у вас есть дополнительные требования или изменения, дайте знать!
 
 ### 📌 Описание
 
@@ -39,6 +50,8 @@
 ## TextStatAnalyzer 📊
 
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+![TextStatAnalyzer Screenshot](https://github.com/SautovAndrey/TasksForJavaRush/blob/43e00258b5e6a8bd7a90766560a5c3dd61c4b3d8/TSA.jpg)
 
 ### 📌 Описание
 
