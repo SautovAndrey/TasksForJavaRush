@@ -3,6 +3,7 @@
 # TasksForJavaRush
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://github.com/SautovAndrey/TasksForJavaRush/blob/43e00258b5e6a8bd7a90766560a5c3dd61c4b3d8/LICENSE)
+![](https://komarev.com/ghpvc/?username=sautovandrey)
 
 ## MultithreadedCalculator 🧮
 
